@@ -4,6 +4,11 @@ Bem-vindo ao **hub central de projetos do Colégio Panorama**!
 Este espaço foi criado para **centralizar, organizar e controlar todos os projetos que acontecem ao longo do ano no colégio**, garantindo que cada iniciativa tenha visibilidade e gestão eficiente.
 
 ---
+# Nossas Documentações
+
+- Sobre nossos projetos. Clique <a href="https://www.notion.so/Col-gio-Panorama-d1d29251a54a41ab9834cc7dbf5cafe5">aqui!</a>
+- Sobre como criamos essa Oganização. Clique <a href="https://www.notion.so/Sincroniza-o-dos-projetos-no-Github-2ed3c0bd8831800ca821de9c6ed06944">aqui!</a>
+---
 
 ## 🎯 Propósito
 
